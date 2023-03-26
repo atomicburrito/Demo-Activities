@@ -2,12 +2,14 @@
 
 .meow {
     width: 300px;
+    display: block;
     float: left;
 }
 
 .woof {
-    float: right;
     width: 300px;
+    display: block;
+    float: right;
 }
 
 h1 {
