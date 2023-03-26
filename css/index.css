@@ -7,7 +7,7 @@
 }
 
 .woof {
-    width: 300px;
+    width: 300px !important;
     display: block;
     float: right;
 }
