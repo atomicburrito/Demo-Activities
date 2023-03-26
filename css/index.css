@@ -1,11 +1,13 @@
 /* This represents notes in CSS */
 
 .meow {
+    width: 300px;
     float: left;
 }
 
 .woof {
     float: right;
+    width: 300px;
 }
 
 h1 {
