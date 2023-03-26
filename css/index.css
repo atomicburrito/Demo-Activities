@@ -1,6 +1,12 @@
+/* This represents notes in CSS */
 
+.meow {
+    float: left;
+}
 
-
+.woof {
+    float: right;
+}
 
 h1 {
     color: red;
